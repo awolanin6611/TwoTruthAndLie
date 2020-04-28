@@ -1,0 +1,26 @@
+h1 {
+color: purple;
+text-align: center;
+}
+h3{
+    color: pink;
+}
+p{
+    color: blueviolet;
+}
+.main-content{
+    background-color:black;
+    border:solid 1px orangered;
+    border-radius: 15px;
+}
+.flex-display{
+    display: flex;
+} 
+.facts{
+    padding: 1em;
+    border: solid 10px greenyellow;
+    border-radius: 25px;
+    background-color: aqua;
+    width: 33.33333%;
+    margin: 0.1in;
+}
